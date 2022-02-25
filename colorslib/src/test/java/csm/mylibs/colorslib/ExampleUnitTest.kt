@@ -1,4 +1,4 @@
-package csm.mylibs.materialcolorslib
+package csm.mylibs.colorslib
 
 import org.junit.Test
 
