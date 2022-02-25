@@ -65,7 +65,7 @@ afterEvaluate {
                 from components.debug
 
                 groupId = 'csm.mylibs.materialcolorslib'
-                artifactId = 'final-debug'
+                artifactId = 'material_colors_lib'
                 version = '1.0'
             }
         }
